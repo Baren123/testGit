@@ -1,5 +1,3 @@
 world 1
-<<<<<<< HEAD
 world 3
-=======
 world 2
